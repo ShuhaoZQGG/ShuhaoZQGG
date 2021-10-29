@@ -3,10 +3,10 @@
 - 👀 I’m interested in building web apps and solving coding challenges
 - 🌱 I’m currently learning Web Development in Lighthouse Labs Bootcamp
 - 💻 My Tech Stack (DESC in Proficiency): 
-      - Programming Languages and Technologies: JavaScript, Python, HTML, CSS, C, Java
-      - Framework, Libraries and Environments: NodeJS, ReactJS, JQuery, ExpressJS, EJS, BootSrap, SASS
-      - Systems,  CMS and Databases: PostgreSQL, Git
-      - Testing: Mocha & Chai, StoryBook, Jest
+   - Programming Languages and Technologies: JavaScript, Python, HTML, CSS, C, Java
+   - Framework, Libraries and Environments: NodeJS, ReactJS, JQuery, ExpressJS, EJS, BootSrap, SASS
+   - Systems,  CMS and Databases: PostgreSQL, Git
+   - Testing: Mocha & Chai, StoryBook, Jest
 - 💞️ I’m looking to collaborate on some Beginner Level Projects.
 - 📫 How to reach me email: shuhao.qgg.zhang@gmail.com
 
