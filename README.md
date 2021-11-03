@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShuhaoZQGG
-      I am a student from McGill University where I majored Mechancial Engineering. I graduated in May, 2021.
+      I am a student from McGill University where I majored Mechanical Engineering. I graduated in May, 2021.
       
 - 👀 I’m interested in building web apps and solving coding challenges
 
