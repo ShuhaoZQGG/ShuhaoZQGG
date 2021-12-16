@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on some Beginner Level Projects.
 
 - 📫 How to reach me email: shuhao.qgg.zhang@gmail.com
-<div>
+<div align="center">
 <a href="https://github.com/ShuhaoZQGG/ShuhaoZQGG">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShuhaoZQGG&show_icons=true&theme=cobalt" />
 </a>
@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuhaoZQGG&langs_count=6&theme=radical" />
 </a>
 </div>
-<div>
+<div align="center">
 <a href="https://github.com/ShuhaoZQGG/MaintenancePro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=MaintenancePro&theme=onedark">
 </a>
