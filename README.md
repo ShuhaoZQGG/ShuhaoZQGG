@@ -15,7 +15,8 @@
 
 - 📫 How to reach me email: shuhao.qgg.zhang@gmail.com
 
-[![Shuhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaoZQGG)](https://github.com/ShuhaoZQGG/ShuhaoZQGG/edit/main/README.md)
+![ShuhaoZQGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaoZQGG&show_icons=true&theme=cobalt)
+
 
 <!---
 ShuhaoZQGG/ShuhaoZQGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
