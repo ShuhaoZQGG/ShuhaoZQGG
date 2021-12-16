@@ -1,21 +1,49 @@
 - 👋 Hi, I’m @ShuhaoZQGG
-      I am a student from McGill University where I majored Mechanical Engineering. I graduated in May, 2021.
-      
-- 👀 I’m interested in building web apps and solving coding challenges
-
-- 🌱 I’m currently learning Web Development in Lighthouse Labs Bootcamp
+    - I am a **full stack developer** working at [Amplexor](https://www.amplexor.com/)
+    - I am a graduate from [McGill University](https://www.mcgill.ca/) where I majored **Mechanical Engineering**.
+    - I live in Montreal, Quebec, Canada
+- 👀 I’m interested in building web apps and solving coding challenges. 
+      - I have the training and a **web development diploma** from [LightHouse Labs Bootcamp](https://www.lighthouselabs.ca/)
 
 - 💻 My Tech Stack (DESC in Proficiency): 
-   - **Programming Languages and Technologies:** JavaScript, Python, HTML, CSS, C, Java
-   - **Framework, Libraries and Environments:** NodeJS, ReactJS, JQuery, ExpressJS, EJS, BootSrap, SASS
-   - **Systems,  CMS and Databases:** PostgreSQL, Git
-   - **Testing:** Mocha & Chai, StoryBook, Jest
-   
+   - **Programming Languages and Technologies:** JavaScript, Python, C#, Ruby, HTML, CSS, C/C++, Java
+   - **Framework, Libraries and Environments:** NodeJS, ExpressJS, ReactJS, JQuery, RabbitMQ, EJS, ActiveRecord, BootSrap, SASS, Bulma
+   - **Public APIs Experiences** Auth0, Stripe, Twillo, MailGun, Socket.IO
+   - **Systems,  CMS and Databases:** PostgreSQL, MongoDB, GraphQL, Git
+   - **Deployment & Cloud Technologies**: Heroku, Netlify, Circle CI, Postman, AWS
+   - **Testing:** Jest, Cypress. Mocha & Chai, StoryBook
+- :heart_on_fire: I love playing [Dota2](https://www.dota2.com/home), reading books, studying new technologies during my free time. I am learning French now.
 - 💞️ I’m looking to collaborate on some Beginner Level Projects.
 
 - 📫 How to reach me email: shuhao.qgg.zhang@gmail.com
-
-![ShuhaoZQGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaoZQGG&show_icons=true&theme=cobalt)
+<div>
+<a href="https://github.com/ShuhaoZQGG/ShuhaoZQGG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShuhaoZQGG&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/ShuhaoZQGG/ShuhaoZQGG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuhaoZQGG&langs_count=6&theme=radical" />
+</a>
+</div>
+<div>
+<a href="https://github.com/ShuhaoZQGG/MaintenancePro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=MaintenancePro&theme=onedark">
+</a>
+<a href="https://github.com/ShuhaoZQGG/Bubbles-A-food-ordering-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Bubbles-A-food-ordering-app&theme=synthwave" />
+</a>
+<a href="https://github.com/ShuhaoZQGG/Scheduler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Scheduler&theme=tokyonight" />
+</a>
+<a href="https://github.com/ShuhaoZQGG/Jungle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Jungle&theme=merko" />
+</a>
+<a href="https://github.com/ShuhaoZQGG/Tweeter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Tweeter&theme=highcontrast" />
+</a>
+<a href="https://github.com/ShuhaoZQGG/Tinyapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Tinyapp&theme=onedark" />
+</a>
+</div>
 
 
 <!---
