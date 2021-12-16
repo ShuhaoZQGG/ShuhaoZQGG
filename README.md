@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShuhaoZQGG
+- 👋 Hi, I’m Shuhao Zhang @ShuhaoZQGG
     - I am a **full stack developer** working at [Amplexor](https://www.amplexor.com/)
     - I am a graduate from [McGill University](https://www.mcgill.ca/) where I majored **Mechanical Engineering**.
     - I live in Montreal, Quebec, Canada
