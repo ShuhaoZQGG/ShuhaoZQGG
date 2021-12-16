@@ -18,7 +18,7 @@
 - 📫 How to reach me email: shuhao.qgg.zhang@gmail.com
 <div align="center">
 <a href="https://github.com/ShuhaoZQGG/ShuhaoZQGG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShuhaoZQGG&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShuhaoZQGG&show_icons=true&theme=cobalt&count_private=true&include_all_commits=false" />
 </a>
 <a href="https://github.com/ShuhaoZQGG/ShuhaoZQGG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuhaoZQGG&langs_count=6&theme=radical" />
