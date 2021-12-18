@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on some Entry Level Projects.
 
 - 📫 How to reach me email: shuhao.qgg.zhang@gmail.com
-- :handshake: Add me in LinkedIn: [<img width="25" src="https://user-images.githubusercontent.com/20462800/146625308-e72fc1a5-2170-4fd2-8d06-77370eb28a7a.png"></img>](https://www.linkedin.com/in/shuhao-zhang-38459514a/) 
+- :handshake: Connect with me in LinkedIn: [<img width="25" src="https://user-images.githubusercontent.com/20462800/146625308-e72fc1a5-2170-4fd2-8d06-77370eb28a7a.png"></img>](https://www.linkedin.com/in/shuhao-zhang-38459514a/) 
 
 <div align="center">
 <a href="https://github.com/ShuhaoZQGG/ShuhaoZQGG">
