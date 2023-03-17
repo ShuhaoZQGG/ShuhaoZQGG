@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shuhao Zhang @ShuhaoZQGG
-    - I am a **full stack developer** working at [Amplexor](https://www.amplexor.com/)
-    - I am a graduate from [McGill University](https://www.mcgill.ca/) where I majored **Mechanical Engineering**.
+    - I am a **full stack developer** working at [Acolad](https://www.acolad.com/)
+    - View my resume at [My Resume](https://resume.creddle.io/resume/cx17ve8gp3m)
     - I live in Montreal, Quebec, Canada
 - 👀 I’m interested in building web apps and solving coding challenges. 
       - I have the training and a **web development diploma** from [LightHouse Labs Bootcamp](https://www.lighthouselabs.ca/)
