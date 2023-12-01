@@ -27,11 +27,11 @@
 </a>
 </div>
 <div align="center">
+<a href="https://github.com/ShuhaoZQGG/Carsties">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Carsties&theme=synthwave" />
+</a>
 <a href="https://github.com/ShuhaoZQGG/MaintenancePro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=MaintenancePro&theme=onedark">
-</a>
-<a href="https://github.com/ShuhaoZQGG/Bubbles-A-food-ordering-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Bubbles-A-food-ordering-app&theme=synthwave" />
 </a>
 <a href="https://github.com/ShuhaoZQGG/Scheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Scheduler&theme=tokyonight" />
