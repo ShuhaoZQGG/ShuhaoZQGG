@@ -30,6 +30,9 @@
 <a href="https://github.com/ShuhaoZQGG/Carsties">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Carsties&theme=synthwave" />
 </a>
+<a href="https://github.com/ShuhaoZQGG/AlgoExpertHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=AlgoExpertHub&theme=merko" />
+</a>
 <a href="https://github.com/ShuhaoZQGG/MaintenancePro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=MaintenancePro&theme=onedark">
 </a>
@@ -41,9 +44,6 @@
 </a>
 <a href="https://github.com/ShuhaoZQGG/Tweeter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Tweeter&theme=highcontrast" />
-</a>
-<a href="https://github.com/ShuhaoZQGG/Tinyapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Tinyapp&theme=onedark" />
 </a>
 </div>
 
