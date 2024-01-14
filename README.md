@@ -30,6 +30,9 @@
 <a href="https://github.com/ShuhaoZQGG/Carsties">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Carsties&theme=synthwave" />
 </a>
+<a href="https://github.com/ShuhaoZQGG/Coding_Challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Coding_Challenges&theme=highcontrast" />
+</a>
 <a href="https://github.com/ShuhaoZQGG/AlgoExpertHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=AlgoExpertHub&theme=merko" />
 </a>
@@ -41,9 +44,6 @@
 </a>
 <a href="https://github.com/ShuhaoZQGG/Jungle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Jungle&theme=merko" />
-</a>
-<a href="https://github.com/ShuhaoZQGG/Tweeter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Tweeter&theme=highcontrast" />
 </a>
 </div>
 
