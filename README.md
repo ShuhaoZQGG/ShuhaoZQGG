@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Shuhao Zhang @ShuhaoZQGG
-    - I am a **full stack developer** working at [Amexio](https://www.amexio.fr/en/home)
+    - I am a **software engineer** working at [Equativ](https://www.equativ.com/)
     - View my resume at [My Resume](https://resume.creddle.io/resume/cx17ve8gp3m)
     - I live in Montreal, Quebec, Canada
 - 👀 I’m interested in building web apps and solving coding challenges. 
       - I have the training and a **web development diploma** from [LightHouse Labs Bootcamp](https://www.lighthouselabs.ca/)
 
 - 💻 My Tech Stack: 
-   - **Programming Languages and Technologies:** C#, TypeScript(JavaScript), Java, Go, Python, C/C++, Ruby, HTML, CSS, 
+   - **Programming Languages and Technologies:** TypeScript(JavaScript), C#, Java, Go, Python, C/C++, Ruby, HTML, CSS, 
    - **Framework, Libraries and Environments:** .Net, Node.Js, Next.Js, React, Spring, Rails, Gin
    - **Systems, CMS and Databases:** PostgreSQL, MongoDB, RabbitMQ, Kafka, GraphQL, Git
    - **Deployment & Cloud Technologies**: AWS, Azure, Digital Ocean, Circle CI, Github Actions, Terraform
