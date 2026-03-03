@@ -26,23 +26,23 @@
 </a>
 </div>
 <div align="center">
-<a href="https://github.com/ShuhaoZQGG/Carsties">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Carsties&theme=synthwave" />
+<a href="https://github.com/SimplicityApp/Toastmasters-Timer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimplicityApp&repo=Toastmasters-Timer&theme=synthwave" />
 </a>
-<a href="https://github.com/ShuhaoZQGG/Coding_Challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Coding_Challenges&theme=highcontrast" />
+<a href="https://github.com/ShuhaoZQGG/PolyNBA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=PolyNBA&theme=highcontrast" />
 </a>
-<a href="https://github.com/ShuhaoZQGG/AlgoExpertHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=AlgoExpertHub&theme=merko" />
+<a href="https://github.com/ShuhaoZQGG/linkitin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=linkitin&theme=merko" />
 </a>
-<a href="https://github.com/ShuhaoZQGG/MaintenancePro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=MaintenancePro&theme=onedark">
+<a href="https://github.com/SimplicityApp/GoViral">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimplicityApp&repo=GoViral&theme=onedark" />
 </a>
-<a href="https://github.com/ShuhaoZQGG/Scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Scheduler&theme=tokyonight" />
+<a href="https://github.com/Modr-Inc/Modr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Modr-Inc&repo=Modr&theme=tokyonight" />
 </a>
-<a href="https://github.com/ShuhaoZQGG/Jungle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=Jungle&theme=merko" />
+<a href="https://github.com/ShuhaoZQGG/AdFlow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShuhaoZQGG&repo=AdFlow&theme=cobalt" />
 </a>
 </div>
 
