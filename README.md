@@ -1,18 +1,6 @@
 - 👋 Hi, I’m Shuhao Zhang @ShuhaoZQGG
     - I am a **software engineer** working at [Equativ](https://www.equativ.com/)
-    - View my resume at [My Resume](https://resume.creddle.io/resume/cx17ve8gp3m)
     - I live in Montreal, Quebec, Canada
-- 👀 I’m interested in building web apps and solving coding challenges. 
-      - I have the training and a **web development diploma** from [LightHouse Labs Bootcamp](https://www.lighthouselabs.ca/)
-
-- 💻 My Tech Stack: 
-   - **Programming Languages and Technologies:** TypeScript(JavaScript), C#, Java, Go, Python, C/C++, Ruby, HTML, CSS, 
-   - **Framework, Libraries and Environments:** .Net, Node.Js, Next.Js, React, Spring, Rails, Gin
-   - **Systems, CMS and Databases:** PostgreSQL, MongoDB, RabbitMQ, Kafka, GraphQL, Git
-   - **Deployment & Cloud Technologies**: AWS, Azure, Digital Ocean, Circle CI, Github Actions, Terraform
-   - **Testing:** XUnit, JUnit, Jest, Cypress. Mocha & Chai, StoryBook
-- :heart_on_fire: I love playing [Dota2](https://www.dota2.com/home), reading books, studying new technologies during my free time. I am learning French now.
-- 💞️ I’m looking to collaborate on some Entry Level Projects.
 
 - 📫 How to reach me email: shuhao.qgg.zhang@gmail.com
 - :handshake: Connect with me on LinkedIn: [<img width="25" src="https://user-images.githubusercontent.com/20462800/146625308-e72fc1a5-2170-4fd2-8d06-77370eb28a7a.png"></img>](https://www.linkedin.com/in/shuhao-zhang-38459514a/) 
